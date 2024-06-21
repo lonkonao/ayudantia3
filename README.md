@@ -62,9 +62,10 @@ agenda-telefonica-node-mysql/
 ├── views/
 │   ├── contactos.ejs
 │   ├── editar_contacto.ejs
-│   ├── nuevo_contacto.ejs
-│   └── index.ejs
+│   └── nuevo_contacto.ejs
+│   
 │
+├── index.ejs
 ├── docker-compose.yml
 └── package.json
 ```
